@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+    "text": "Pague pelo PIX e receba 5% desconto na sua compra!",
+    "link": "/promotion",
+    "color": "#0f0000",
+    "background": "#f90303"
   },
   "contacts_stripe": {
     "pages": [
@@ -10,8 +12,8 @@
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "SELARIA LEONIDAS ARTE EM COURO",
+        "link": ""
       }
     ],
     "phone_wpp": true,
@@ -20,10 +22,10 @@
   "categories_list": {
     "featured": [],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "search_input": true,
-  "alphabetical_order_submenu": false,
-  "full_width_submenu": false
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
