@@ -24,16 +24,21 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
+    },
+    {
+      "src": "/img/uploads/images.jpg"
     }
   ],
   "payment_methods": {
-    "pix": true,
     "visa": true,
-    "mastercard": true,
+    "boleto": true,
     "elo": true,
-    "amex": true,
     "hipercard": true,
-    "boleto": true
+    "mastercard": true,
+    "hiper": true,
+    "diners": true,
+    "pix": true,
+    "amex": true
   },
   "credits": ""
 }
