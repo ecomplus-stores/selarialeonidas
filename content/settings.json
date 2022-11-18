@@ -1,26 +1,26 @@
 {
-  "store_id": 21352,
-  "name": "selarialeonidas",
   "domain": "selarialeonidas.netlify.app",
-  "short_name": "selarialeonidas",
-  "description": "selarialeonidas",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-white"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/selarialeonidas",
+  "logo": "/img/uploads/essssssaaaaaaaaaaaaaa.png",
+  "name": "selarialeonidas",
+  "short_name": "SELARIA LEÔNIDAS",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR",
-  "repository": "ecomplus-stores/selarialeonidas",
+  "mini_logo": "",
+  "font_family": "Lato",
+  "favicon": "/img/uploads/essssssaaaaaaaaaaaaaa.png",
   "icons_font": "_",
-  "font_family": "_"
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/essssssaaaaaaaaaaaaaa.png",
+  "store_id": 21352,
+  "description": "SELARIA LEÔNIDAS",
+  "large_icon": "/img/uploads/logo-nova.jpg"
 }
