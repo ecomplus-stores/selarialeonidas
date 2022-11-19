@@ -18,7 +18,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner2.webp",
+          "img": "/img/uploads/logo-nova.png",
           "alt": "Banner sample two",
           "mobile_img": "/img/uploads/passion.webp"
         }
@@ -61,6 +61,11 @@
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "sales"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false
     }
   ]
 }
