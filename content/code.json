@@ -1,5 +1,5 @@
 {
-  "css": ".shipping-calculator__option small {\n  color: #ffffff !important;\n}",
+  "css": ".shipping-calculator__option small {\n  color: #ffffff !important;\n}\n.app__footer {\n  background: #FFF19A !important;\n}",
   "html_head": "",
   "html_body": ""
 }
