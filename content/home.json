@@ -35,8 +35,8 @@
       "sort": "sales",
       "title": "",
       "headless": false,
-      "limit": 20,
-      "page": 1
+      "limit": 24,
+      "page": 5
     },
     {
       "type": "page-title",
