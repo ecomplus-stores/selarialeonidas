@@ -1,18 +1,18 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "ENTREGAMOS PARA TODO BRASIL"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "PARCELE SEM JUROS"
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "FRETE GRÁTIS NAS COMPRAS ACIMA DE R$700,00"
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "LOJA SEGURA COMPRE ONLINE ENTREGA GARANTIDA"
   }
 }
