@@ -13,10 +13,12 @@
       }
     ],
     "phone_wpp": true,
-    "socials": false
+    "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/coldre?COLDRES"
+    ],
     "random": 6,
     "full_width": true
   },
