@@ -31,11 +31,11 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
+      "collection_id": "61c223ce0c7c727225da85c8:categories:COLDRES:/coldre",
       "sort": "offers",
       "title": "",
       "headless": false,
-      "limit": 12,
+      "limit": 20,
       "page": 1
     },
     {
