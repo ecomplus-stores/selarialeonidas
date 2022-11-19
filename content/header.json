@@ -8,7 +8,7 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "SELARIA LEONIDAS ARTE EM COURO",
+        "title": "SELARIA LEÔNIDAS ARTE EM COURO",
         "link": ""
       }
     ],
@@ -19,7 +19,7 @@
     "featured": [
       "/coldre?COLDRES"
     ],
-    "random": 15,
+    "random": 20,
     "full_width": true
   },
   "desktop_megamenu": true,
