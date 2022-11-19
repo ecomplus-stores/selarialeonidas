@@ -5,11 +5,11 @@
   },
   "installments": {
     "show": false,
-    "text": "PARCELE SEM JUROS"
+    "text": ""
   },
   "exchange": {
     "show": true,
-    "text": "FRETE GRÁTIS NAS COMPRAS ACIMA DE R$700,00"
+    "text": "PARCELAMENTO EM ATÉ 12 VEZES"
   },
   "promo": {
     "show": true,
