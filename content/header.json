@@ -8,16 +8,12 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
         "title": "SELARIA LEONIDAS ARTE EM COURO",
         "link": ""
       }
     ],
     "phone_wpp": true,
-    "socials": true
+    "socials": false
   },
   "categories_list": {
     "featured": [],
