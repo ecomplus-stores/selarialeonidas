@@ -36,7 +36,7 @@
     "hipercard": true,
     "mastercard": true,
     "hiper": true,
-    "diners": true,
+    "diners": false,
     "pix": true,
     "amex": true
   },
