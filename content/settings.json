@@ -4,23 +4,23 @@
   "primary_color": "#222831",
   "theme": {
     "bootswatch": "_",
-    "custom": "clean-white"
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/selarialeonidas",
-  "logo": "/img/uploads/y.jpg",
+  "logo": "/img/uploads/essssssaaaaaaaaaaaaaa.png",
   "name": "SELARIA LEÔNIDAS",
   "short_name": "ARTE EM COURO",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "Lato",
+  "font_family": "Inter",
   "favicon": "/img/uploads/y.jpg",
-  "icons_font": "_",
+  "icons_font": "font-awesome",
   "country_code": "BR",
-  "secondary_color": "#393e46",
-  "icon": "/img/uploads/y.jpg",
+  "secondary_color": "#0562f6",
+  "icon": "/img/uploads/essa.jpg",
   "store_id": 21352,
   "description": "Selaria Leônidas tradição e qualidade desde 1971,é uma empresa familiar, fabricando artesanalmente artefatos em couro e uma linha completa de artigos de selaria, fabricamos também uma variedade de coldres de couro para todos os tipos de revólver e pistolas, qualquer dúvida estamos a disposição!! WhatsApp 3598866-2879",
-  "large_icon": "/img/uploads/y.jpg"
+  "large_icon": "/img/uploads/novissima2.jpg"
 }
