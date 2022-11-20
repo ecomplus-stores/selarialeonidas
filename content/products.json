@@ -16,6 +16,13 @@
       "type": "product-description",
       "title": "Quem comprou este produto, também comprou:",
       "enabled": false
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "lowest_price"
     }
   ]
 }
