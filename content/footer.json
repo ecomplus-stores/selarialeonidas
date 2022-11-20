@@ -4,8 +4,8 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": true,
-    "title": "Páginas",
+    "list_pages": false,
+    "title": "",
     "list": []
   },
   "links_2": {
@@ -14,15 +14,15 @@
     "list": []
   },
   "contacts": {
-    "title": "Contatos",
+    "title": "",
     "phone_wpp": true,
     "socials": true,
-    "email": true,
+    "email": false,
     "address": true
   },
   "stamps": [
     {
-      "src": "/img/uploads/ssl-safe.png",
+      "src": "/img/uploads/3c080d0914b391f247941ac80ef26e31.jpg",
       "alt": "Secure connection"
     },
     {
