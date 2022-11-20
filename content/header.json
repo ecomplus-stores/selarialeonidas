@@ -1,9 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "Pague pelo PIX e receba 5% desconto na sua compra!",
+    "text": "PAGUE PELO PIX E RECEBA 5% DE DESCONTO NA SUA COMPRA!!!",
     "link": "",
-    "color": "#090000",
-    "background": "#281b9e"
+    "color": "#000000",
+    "background": "#ec0a0d"
   },
   "contacts_stripe": {
     "pages": [
