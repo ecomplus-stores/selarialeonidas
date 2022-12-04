@@ -23,6 +23,10 @@
       "limit": 20,
       "page": 1,
       "sort": "lowest_price"
+    },
+    {
+      "type": "product-block",
+      "enabled": true
     }
   ]
 }
