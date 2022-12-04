@@ -15,12 +15,12 @@
     {
       "type": "product-description",
       "title": "Quem comprou este produto, também comprou:",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
+      "limit": 20,
       "page": 1,
       "sort": "lowest_price"
     }
