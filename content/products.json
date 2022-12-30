@@ -22,7 +22,7 @@
       "shuffle": false,
       "limit": 20,
       "page": 1,
-      "sort": "lowest_price",
+      "sort": "sales",
       "collection_id": null
     }
   ]
