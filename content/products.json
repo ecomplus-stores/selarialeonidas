@@ -24,11 +24,6 @@
       "page": 1,
       "sort": "sales",
       "collection_id": null
-    },
-    {
-      "type": "responsive-banner",
-      "mobile_img": "/img/uploads/images-8-.jpeg",
-      "img": "/img/uploads/images-8-.jpeg"
     }
   ]
 }
