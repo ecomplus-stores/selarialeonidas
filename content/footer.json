@@ -35,6 +35,7 @@
     "elo": true,
     "hipercard": true,
     "mastercard": true,
+    "paypal": true,
     "hiper": false,
     "diners": false,
     "pix": true,
